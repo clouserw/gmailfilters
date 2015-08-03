@@ -69,7 +69,7 @@
 		<updated>2009-12-09T20:44:01Z</updated>
 		<content></content>
 		<apps:property name='from' value='bugzilla-daemon@mozilla.org'/>
-		<apps:property name='hasTheWord' value='(&quot;Stephen Donner&quot; OR &quot;Krupa Raj&quot; OR &quot;Raymond Etornam Agbeame&quot; OR &quot;Milos Dinic&quot;) RESOLVED VERIFIED'/>
+		<apps:property name='hasTheWord' value='(&quot;Stephen Donner&quot; OR &quot;Krupa Raj&quot; OR &quot;Milos Dinic&quot;) RESOLVED VERIFIED'/>
 		<apps:property name='shouldArchive' value='true'/>
 	</entry>
 	<entry>
